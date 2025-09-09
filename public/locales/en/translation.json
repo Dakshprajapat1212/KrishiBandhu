@@ -1,0 +1,21 @@
+{
+  "language": {
+    "choose": "Choose language",
+    "welcome": "Welcome to KrishiBandhu",
+    "welcome_template": "Welcome to {{brand}}",
+    "get_started": "Get started",
+    "apply": "Apply language",
+    "change_language": "Change language",
+    "saved_message": "Language preference saved",
+    "description": "{{brand}} is your AI-powered companion for smart agriculture. Get personalized crop yield predictions, irrigation recommendations, and pest detection tools - all in your preferred language."
+  },
+  "brand": {
+    "name": "KrishiBandhu"
+  },
+  "common": {
+    "cancel": "Cancel",
+    "confirm": "Confirm",
+    "go_back": "Go back",
+    "back_home": "Back to home"
+  }
+}
